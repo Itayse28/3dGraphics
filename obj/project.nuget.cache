@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYCVB04a0TO2WIfZx1tADzJP+U/6kVHnsV3mdW0E65kj0wpZQs2aDl+g88+THkj3Ft4WeNYcW2NwwIFoYzf48w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itaik\\source\\repos\\GraphicsTest\\GraphicsTest\\GraphicsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itaik\\.nuget\\packages\\managedcuda\\10.0.0\\managedcuda.10.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
